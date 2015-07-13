@@ -179,7 +179,7 @@
 		toolbarExternal: false, // ID selector
 		toolbarOverflow: false,
 
-		buttonSource: false,
+		buttonSource: true,
 		buttons: ['html', 'formatting', 'bold', 'italic', 'deleted', 'unorderedlist', 'orderedlist',
 				  'outdent', 'indent', 'image', 'file', 'link', 'alignment', 'horizontalrule'], // + 'underline'
 
